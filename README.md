@@ -1,2 +1,1 @@
-# teleport-cop.github.io
-teleport-cop.github.io
+Welcome to the Teleport Communities of Practice repository.
