@@ -16,4 +16,4 @@ These repos are ones that you can fork/clone and utilize in webinars, customer d
 
 The following repos are part of the Teleport COP today:
 
-* https://github.com/teleport-cop/teleport-github-actions-provisioning
+* https://github.com/gravitational/teleport-cop/teleport-github-actions-provisioning
