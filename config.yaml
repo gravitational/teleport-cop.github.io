@@ -1,4 +1,4 @@
-baseURL: "http://teleport-cop.github.io/"
+baseURL: "http://goteleport-cop.github.io/"
 languageCode: "en-us"
 title: "Teleport Communities of Practice"
 theme: PaperMod
