@@ -8,7 +8,7 @@ url: "/contributions"
 summary: contributions
 ---
 
-Contributions from the community play an important role in the assets associated with the Teleport Communities of Practice (CoP). One of these sources of content is through source code repositories hosted on GitHub within the [teleport-cop](https://github.com/teleport-cop) organization. These repositories have a direct relationship to one or more tracks within a CoP or across multiple CoP’s and help drive the overall mission of the CoP program.
+Contributions from the community play an important role in the assets associated with the Teleport Communities of Practice (CoP). One of these sources of content is through source code repositories hosted on GitHub within the [teleport-cop](https://github.com/gravitational/teleport-cop) organization. These repositories have a direct relationship to one or more tracks within a CoP or across multiple CoP’s and help drive the overall mission of the CoP program.
 
 ## Contributions and Committers
 
